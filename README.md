@@ -53,8 +53,39 @@
 
 计划整理分类 & 目录：(文档已完结请选中 checkbox)
 
-- [x] [获得Authorization和token](docs/login/获得Authorization和token.md)
-- [x] [获得空间基本信息](docs/info/获得空间基本信息.md)
+- [] [认证系统]
+
+  - [x] [获得Authorization和token](docs/login/获得Authorization和token.md)
+
+- [] [文件操作]
+
+  -[] [下载]
+
+  -[] [上传]
+
+  -[] [更改]
+
+- [] [信息获取]
+
+  - [x] [获得空间基本信息](docs/info/获得空间基本信息.md)
+
+- [] []
+
+- [] []
+
+- [] []
+
+- [] []
+
+- [] []
+
+
+
+
+
+
+
+
 <!-- - [ ] [接口签名与验证](docs/misc/sign)
     - [x] [APP API 签名](docs/misc/sign/APP.md)（`appkey` 与 `sign`）
     - [x] [已知的 APPKey](docs/misc/sign/APPKey.md)
